@@ -17,3 +17,5 @@ The **Hotel Management System** is a software application designed to streamline
 
 ![Hotel Managment System](https://github.com/user-attachments/assets/a39976fb-0f2f-4361-9322-bb49084db3b9)
 ![Hotel Management System Database Schema](https://github.com/user-attachments/assets/6313e752-2b31-4f70-beab-9c81e156eeab)
+![image](https://github.com/user-attachments/assets/8ce89874-2935-4ae6-87b1-bd9bf55f08e9)
+
